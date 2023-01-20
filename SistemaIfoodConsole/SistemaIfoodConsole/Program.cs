@@ -2,24 +2,22 @@
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
-    internal class Program
+    class Program
     {
+        public string email = "henrique@email.com";
+        public string pass = "123";
+        public string user = "Henrique";
+        
         static void Main(string[] args)
         {
-            //USUÁRIOS CRIADOS
-            string email = "henrique@email.com";
-            string pass = "123";
-            string user = "Henrique";
-            //RUA ETC.. (POR PADRÃO)
-            string street = "Cândido gonçalves";
+            string street = "Cândido Gonçalves";
             string number = "2003";
-            string city = "Belo horizonte";
-        //RESTAURANTES LEGAIS
+            string city = "Belo Horizonte";
 
         //CÓDIGO
         Login:
             Console.Clear();
-            Console.Title = "Ifood - Console Applicattion";
+            Console.Title = "Ifood - Console Application";
             Console.BackgroundColor= ConsoleColor.Red;
             Console.WriteLine(".__  _____                 .___\r\n|__|/ ____\\____   ____   __| _/\r\n|  \\   __\\/  _ \\ /  _ \\ / __ | \r\n|  ||  | (  <_> |  <_> ) /_/ | \r\n|__||__|  \\____/ \\____/\\____ | \r\n                            \\/ ");
             Console.BackgroundColor= ConsoleColor.Black;
@@ -30,7 +28,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             if (email2 == email & pass2 == pass)
             {
                 Console.Clear();
-                Console.WriteLine($"Olá, {user}! O Ifood está preparando o sistema para você...");
+                Console.WriteLine($"Olá, {this.user}! O Ifood está preparando o sistema para você...");
                 Thread.Sleep(1000);
                 Console.WriteLine("Carregando...");
                 Thread.Sleep(1000);
