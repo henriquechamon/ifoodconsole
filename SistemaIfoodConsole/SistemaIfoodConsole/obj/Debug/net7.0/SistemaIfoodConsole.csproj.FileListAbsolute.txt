@@ -1,0 +1,15 @@
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\bin\Debug\net7.0\SistemaIfoodConsole.exe
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\bin\Debug\net7.0\SistemaIfoodConsole.deps.json
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\bin\Debug\net7.0\SistemaIfoodConsole.runtimeconfig.json
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\bin\Debug\net7.0\SistemaIfoodConsole.dll
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\bin\Debug\net7.0\SistemaIfoodConsole.pdb
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.csproj.AssemblyReference.cache
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.AssemblyInfoInputs.cache
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.AssemblyInfo.cs
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.dll
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\refint\SistemaIfoodConsole.dll
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.pdb
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\SistemaIfoodConsole.genruntimeconfig.cache
+D:\ProjetosC#\SistemaIfoodConsole\SistemaIfoodConsole\obj\Debug\net7.0\ref\SistemaIfoodConsole.dll
